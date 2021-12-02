@@ -108,7 +108,7 @@
         "BOT_NAME": {
             "description": "bot name",
             "required": false,
-            "value": "ꪶ͢𝓲𝓽'𝓼 𝓶𝓮 𝓶𝓪𝓪𝔂𝓪𝓪𝓿𝓲࿐"
+            "value": "ꪶɪᴛꜱ ᴍᴇ ᴍᴀᴀʏᴀᴀᴠɪ࿐"
         },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
