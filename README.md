@@ -1,6 +1,6 @@
 # 🅼🅰🅰🆈🅰🅰🆅🅸
 <div align="center">
-        <img border-radius: 15px src="https://i.imgur.com/TqCHb2w.jpg" width="200" height="200"/>
+        <<img src="7fb8c434-5204-4461-bb61-6c2ce8b80ea5.gif" alt="GIF" width="250" height="250"/>
 </p>
 
 <div align="center">
